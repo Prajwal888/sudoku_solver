@@ -1,7 +1,9 @@
 # Sudoku Solver by Prajwal Jena
 A Sudoku solver based on MATLAB.
 
-Input:	a - //Raw Sudoku.
+Input:	
+	
+	a - //Raw Sudoku.
 
 Output:	
 	
