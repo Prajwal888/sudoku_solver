@@ -4,6 +4,7 @@ A Sudoku solver based on MATLAB.
 Input:	a - //Raw Sudoku.
 
 Output:	
+	
 	1. s - //Solved Sudoku
 
 	2. space - //Number of Blanks
