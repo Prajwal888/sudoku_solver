@@ -24,7 +24,7 @@ b = 0;          % Flag to check numbers
 error = 0;      % Error in Input Matrix/Sudoku
 % Check 3 things: row, column and 3x3 matrix.
 test = 0;       % Check - store value to be checked
-while ( k < 1 )         % SUDOKU Solving Algorithm 
+while ( k < 1 )             % SUDOKU Solving Algorithm 
     
     if ( b == 12 )
         if ( n == 1 )
