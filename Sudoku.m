@@ -46,7 +46,7 @@ while ( k < 1 )             % SUDOKU Solving Algorithm
     end
     
     for i = 1:9                             % Scan Sudoku
-        for j = 1:9                         % &
+        for j = 1:9                         % & 
             if ( a(i,j) == 0 )              % Blank space
                 if ( s(i,j) == 0 )          % &
                     space = space + 1;      % Count space
